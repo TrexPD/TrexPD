@@ -6,7 +6,7 @@
 </p>
 
 
-# Sobre mim 
+## Sobre mim 
 
 Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-oficial/) 👋! Um jovem programador que adora desenvolver novos projetos.
 
@@ -14,9 +14,9 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 - 👷 Atualmente estou desenvolvendo vários projetos, confira no meu repositorio!  
 - 🍀 Nesse momento estou aprendendo novas linguagens de programação como `Rust`, `Javascript` e `C++`
 
-# Coisas que eu ❤️
+## Coisas que eu ❤️
 
-**Linguagens:**
+### **Linguagens:**
 
 <a href="https://python.org/">
   <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=fcff00">
@@ -41,7 +41,7 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 </a>
 
 
-**Editores de texto e IDEs:**
+### **Editores de texto e IDEs:**
 
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-44475a?style=for-the-badge&logo=visualstudiocode&logoColor=1793D1">
@@ -50,7 +50,7 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 	<img src="https://img.shields.io/badge/Notepad++-14354C?style=for-the-badge&logo=notepadplusplus&logoColor=white">
 </a>
 
-**Sistemas operacionais:**
+### **Sistemas operacionais:**
 
 <a href="https://nixos.org/">
   <img src="https://img.shields.io/badge/Nix_OS-88a1ec?style=for-the-badge&logo=nixos&logoColor=white">
@@ -63,7 +63,7 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 </a>
 
 
-# Contate-me 💬
+### Contate-me 💬
 
 <p align="center">
   <!-- Linkedin -->

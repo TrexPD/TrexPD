@@ -44,7 +44,7 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 ### **Editores de texto e IDEs:**
 
 <a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-44475a?style=for-the-badge&logo=visualstudiocode&logoColor=1793D1">
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-44475a?style=for-the-badge&logo=visualstudiocode&logoColor=1793D1">
 </a>
 <a href="https://notepad-plus-plus.org/">
 	<img src="https://img.shields.io/badge/Notepad++-14354C?style=for-the-badge&logo=notepadplusplus&logoColor=white">
@@ -76,3 +76,4 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
   <!-- Gmail -->
   <a href="mailto:paulodanielpro@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC704B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+

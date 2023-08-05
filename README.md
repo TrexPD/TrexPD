@@ -26,6 +26,10 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 	<img src="https://img.shields.io/badge/Rust-14354C?style=for-the-badge&logo=rust&logoColor=orange">
 </a>
 
+<a href="https://developer.mozilla.org/docs/Web/JavaScript">
+	<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow">
+</a>
+
 <a href="https://www.gnu.org/software/bash/">
 	<img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white">
 </a>
@@ -48,16 +52,16 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 	<img src="https://img.shields.io/badge/Pandas-00008B?style=for-the-badge&logo=pandas&logoColor=white">
 </a>
 
+<a href="https://www.mysql.com/">
+	<img src="https://img.shields.io/badge/MySQL-486ee2?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
 <a href="https://powerbi.microsoft.com/">
 	<img src="https://img.shields.io/badge/PowerBI-FFFF00?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>
 
 <a href="https://www.microsoft.com/microsoft-365/excel">
 	<img src="https://img.shields.io/badge/Planilhas-228B22?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-</a>
-
-<a href="https://www.mysql.com/">
-	<img src="https://img.shields.io/badge/MySQL-486ee2?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 
 ### **Editores de texto e IDEs:**

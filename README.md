@@ -60,6 +60,10 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 	<img src="https://img.shields.io/badge/PowerBI-FFFF00?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>
 
+<a href="https://www.tableau.com/">
+	<img src="https://img.shields.io/badge/Tableau-1E90FF?style=for-the-badge&logo=tableau&logoColor=white">
+</a>
+
 <a href="https://www.microsoft.com/microsoft-365/excel">
 	<img src="https://img.shields.io/badge/Planilhas-228B22?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </a>

@@ -42,12 +42,16 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 
 ### **Análise de Dados:**
 
+<a href="https://pandas.pydata.org/">
+	<img src="https://img.shields.io/badge/Pandas-00008B?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+
 <a href="https://powerbi.microsoft.com/">
 	<img src="https://img.shields.io/badge/PowerBI-FFFF00?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>
 
-<a href="https://pandas.pydata.org/">
-	<img src="https://img.shields.io/badge/Pandas-00008B?style=for-the-badge&logo=pandas&logoColor=white">
+<a href="https://www.microsoft.com/microsoft-365/excel">
+	<img src="https://img.shields.io/badge/Planilhas-228B22?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </a>
 
 ### **Editores de texto e IDEs:**

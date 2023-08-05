@@ -19,27 +19,32 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 ### **Linguagens:**
 
 <a href="https://python.org/">
-  <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=fcff00">
+	<img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=fcff00">
 </a>
 <a href="https://www.rust-lang.org/">
 	<img src="https://img.shields.io/badge/Rust-14354C?style=for-the-badge&logo=rust&logoColor=orange">
 </a>
 <a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white">
+	<img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white">
 </a>
 <a href="https://www.mysql.com/">
 	<img src="https://img.shields.io/badge/MySQL-486ee2?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 <a href="https://html5.org/">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </a>
 <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 <a href="https://en.wikipedia.org/wiki/Markdown">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+	<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </a>
 
+### **Análise de Dados:**
+
+<a href="https://powerbi.microsoft.com/">
+	<img src="https://img.shields.io/badge/PowerBI-FFFF00?style=for-the-badge&logo=powerbi&logoColor=black">
+</a>
 
 ### **Editores de texto e IDEs:**
 

@@ -53,7 +53,7 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 </a>
 
 <a href="https://www.mysql.com/">
-	<img src="https://img.shields.io/badge/MySQL-486ee2?style=for-the-badge&logo=mysql&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 
 <a href="https://powerbi.microsoft.com/">

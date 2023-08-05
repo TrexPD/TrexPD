@@ -46,6 +46,10 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 	<img src="https://img.shields.io/badge/PowerBI-FFFF00?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>
 
+<a href="https://pandas.pydata.org/">
+	<img src="https://img.shields.io/badge/Pandas-00008B?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+
 ### **Editores de texto e IDEs:**
 
 <a href="https://code.visualstudio.com/">

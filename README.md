@@ -105,8 +105,6 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 <p align="center">
   <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/paulodaniel-oficial/"><img src="https://img.shields.io/badge/Linkedin-000080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <!-- Telegram -->
-  <a href="https://t.me/Essential_rs"><img src="https://img.shields.io/badge/Telegram-8FBDD3?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <!-- Gmail -->
   <a href="mailto:paulodanielpro@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC704B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>

@@ -108,4 +108,3 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
   <!-- Gmail -->
   <a href="mailto:paulodanielpro@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC704B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-

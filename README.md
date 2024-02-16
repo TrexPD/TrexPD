@@ -80,6 +80,14 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 
 ### **Sistemas operacionais:**
 
+<a href="https://www.microsoft.com/pt-br/software-download/windows10">
+  <img src="https://img.shields.io/badge/Windows_10-000080?style=for-the-badge&logo=windows&logoColor=white">
+</a>
+
+<a href="https://www.freebsd.org/">
+  <img src="https://img.shields.io/badge/Free_BSD-ffff00?style=for-the-badge&logo=freebsd&logoColor=black">
+</a>
+
 <a href="https://nixos.org/">
   <img src="https://img.shields.io/badge/Nix_OS-88a1ec?style=for-the-badge&logo=nixos&logoColor=white">
 </a>
@@ -88,17 +96,6 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
   <img src="https://img.shields.io/badge/Pop!__OS-000080?style=for-the-badge&logo=popos&logoColor=white">
 </a>
 
-<a href="https://www.microsoft.com/pt-br/software-download/windows10">
-  <img src="https://img.shields.io/badge/Windows_10-000080?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-
-<a href="https://archlinux.org/">
-  <img src="https://img.shields.io/badge/Arch_Linux-0000ff?style=for-the-badge&logo=archlinux&logoColor=white">
-</a>
-
-<a href="https://www.openbsd.org/">
-  <img src="https://img.shields.io/badge/Open_BSD-ffff00?style=for-the-badge&logo=freebsd&logoColor=black">
-</a>
 
 ### Contate-me 💬
 

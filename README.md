@@ -97,7 +97,7 @@ Olá mundo, eu sou o [Paulo Daniel](https://www.linkedin.com/in/paulodaniel-ofic
 </a>
 
 <a href="https://www.openbsd.org/">
-  <img src="https://img.shields.io/badge/Open_BSD-ffff00?style=for-the-badge&logo=openbsd&logoColor=black">
+  <img src="https://img.shields.io/badge/Open_BSD-ffff00?style=for-the-badge&logo=freebsd&logoColor=black">
 </a>
 
 ### Contate-me 💬
